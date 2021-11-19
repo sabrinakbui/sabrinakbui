@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sabrina! I'm from Southern California. I'm a strong advocate for templates and the serial comma. 
+- 👀 I’m interested in learning more about technical writing in the software sphere and coding in general. 
+- 🌱 I’m currently learning Adobe Suite and GitHub!
+- 💞️ I’m looking to collaborate on some basic projects in GitHub to get me used to working in the program. So far, so goood! Nothing is broken. At least I don't think.
+- 📫 You can reach me on LinkedIn at linkedin.com/sabrinakbui! 
